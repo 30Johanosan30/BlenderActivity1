@@ -1,0 +1,2 @@
+Changing the resolution of sphere checkpoint 3 to 160x90 makes our saved image significantly smaller than the image of checkpoint 2 saved from before changing the resolution. 
+

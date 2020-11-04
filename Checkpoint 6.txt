@@ -1,0 +1,1 @@
+Changing the gamma values for the sphere in checkpoint 5 caused the image to appear more transparent and lose a lot of color compared to the sphere in checkpoint 2. 
